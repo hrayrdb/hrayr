@@ -8,7 +8,7 @@
 
 ## 🌐Personal Portfolio
 
-- [ Coming Soon !](https://github.com/hrayrdb)
+- [ Coming Soon ](https://github.com/hrayrdb)
 
 
 ## 🤝 Let's Connect!
