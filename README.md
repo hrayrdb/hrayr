@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-I'm Hrayr, welcome to my GitHub profile!
+# Hi, I'm Hrayr
 
 ## 🚀 Quick Overview
 
@@ -9,13 +7,8 @@ I'm Hrayr, welcome to my GitHub profile!
 - 👯 I’m looking to collaborate on: [Types of projects you're interested in collaborating on]
 - 🤔 I’m looking for help with: [Something you need help with]
 - 💬 Ask me about: [Topics you're knowledgeable about]
-- 📫 How to reach me: [Your Email or Social Media Links]
+- 📫 How to reach me: Via ([ LinkedIn ](https://www.linkedin.com/in/hrayr-derbedrossian/)) ! 
 
-## 💼 Professional Experience
-
-- [Previous Job/Project 1]
-- [Previous Job/Project 2]
-- [Previous Job/Project 3]
 
 ## 🛠️ Skills
 
@@ -25,7 +18,7 @@ I'm Hrayr, welcome to my GitHub profile!
 
 ## 🌐 Find Me Around the Web
 
-- [LinkedIn]([LinkedIn Profile Link](https://www.linkedin.com/in/hrayr-derbedrossian/))
+- ([ LinkedIn ](https://www.linkedin.com/in/hrayr-derbedrossian/))
 - [Personal Website/Blog](Your Website or Blog Link)
 
 
