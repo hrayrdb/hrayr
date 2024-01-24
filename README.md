@@ -2,12 +2,9 @@
 
 ## 🚀 Quick Overview
 
-- 🔭 I'm currently working on: [Current Project/Job]
-- 🌱 I'm learning: [What you are currently learning]
-- 👯 I’m looking to collaborate on: [Types of projects you're interested in collaborating on]
-- 🤔 I’m looking for help with: [Something you need help with]
-- 💬 Ask me about: [Topics you're knowledgeable about]
-- 📫 How to reach me: Via ([ LinkedIn ](https://www.linkedin.com/in/hrayr-derbedrossian/)) ! 
+- 🔭 I'm currently Studying CS at: [Damascus University](https://www.damascusuniversity.edu.sy/index.php?lang=2)
+- 🔨 I’m looking working on: Personal Portfolio. 
+- 📫 How to reach me: Via [ LinkedIn ](https://www.linkedin.com/in/hrayr-derbedrossian/) ! 
 
 
 ## 🛠️ Skills
@@ -18,8 +15,8 @@
 
 ## 🌐 Find Me Around the Web
 
-- ([ LinkedIn ](https://www.linkedin.com/in/hrayr-derbedrossian/))
-- [Personal Website/Blog](Your Website or Blog Link)
+- [ LinkedIn ](https://www.linkedin.com/in/hrayr-derbedrossian/)
+- Personal Website Coming Soon!
 
 
 ## 🤝 Let's Connect!
