@@ -3,7 +3,7 @@
 ## 🚀 Quick Overview
 
 - 🔭 I'm currently Studying CS at: [Damascus University](https://www.damascusuniversity.edu.sy/index.php?lang=2)
-- 🔨 I’m looking working on: Personal Portfolio. 
+- 🔨 I’m currently working on: Personal Portfolio, Graduation Project. 
 - 📫 How to reach me: Via [ LinkedIn ](https://www.linkedin.com/in/hrayr-derbedrossian/) ! 
 
 ## 🌐Personal Portfolio
